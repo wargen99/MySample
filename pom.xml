@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.aop</groupId>
+	<artifactId>aop_logging</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -51,6 +52,4 @@
 		</plugins>
 	</build>
 
-
-	<artifactId>aoplogging</artifactId>
 </project>
